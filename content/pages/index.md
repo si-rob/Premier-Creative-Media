@@ -726,7 +726,7 @@ sections:
         showIcon: true
         icon: send
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: null
     badge:
       label: Contact Us
