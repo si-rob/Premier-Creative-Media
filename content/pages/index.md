@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Elevate Your Brand
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      With over 30 years of combined technical and visual expertise, our team is
+      dedicated to crafting products that not only represent your brand but also
+      tell its story with precision and creativity.
     actions:
       - label: Get started
         altText: ''
