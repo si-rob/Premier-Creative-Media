@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'From trendy to traditional, we have you covered'
       color: text-primary
       type: Badge
     elementId: ''
