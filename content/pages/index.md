@@ -13,7 +13,7 @@ sections:
       dedicated to crafting products that not only represent your brand but also
       tell its story with precision and creativity.
     actions:
-      - label: Get started
+      - label: Contact Us
         altText: ''
         url: /
         showIcon: false
